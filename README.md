@@ -32,7 +32,7 @@ Si2C 适用于：
 ## 文件结构
 
 ```text
-Si2C/
+si2c/
 ├── SKILL.md
 ├── REFERENCE/
 │   └── writing-reference.md
@@ -48,7 +48,7 @@ Si2C/
 将仓库安装到 agent skill 目录：
 
 ```bash
-git clone https://github.com/q9good/Si2C.git ~/.agents/skills/Si2C
+git clone https://github.com/q9good/Si2C.git ~/.agents/skills/si2c
 ```
 
 也可以使用你的 agent 支持的等价目录。
